@@ -1,0 +1,7 @@
+{
+  "description": "Hide the Category Selection in the Overview", 
+  "name": "Hide App Categories", 
+  "shell-version": ["3.6", "3.7.1", "3.7.2", "3.7.3"], 
+  "url": "http://github.com/cldx/gse-hidecategories", 
+  "uuid": "hidecategories@cldx3000.upinthesky.net"
+}
